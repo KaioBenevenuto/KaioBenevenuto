@@ -6,9 +6,9 @@ Aqui você pode encontrar, por enquanto apenas alguns repositórios de estudos m
 
 ## Tecnologias que eu uso💡
 <div display = "inline">
-  <img width= "50" height = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
-  <img width= "50" height = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" /> 
-  <img width= "50" height = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
+  <img width= "50" height = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> &nbsp;&nbsp;
+  <img width= "50" height = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" /> &nbsp;&nbsp; 
+  <img width= "50" height = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" /> &nbsp;&nbsp;
 </div>         
           
           
