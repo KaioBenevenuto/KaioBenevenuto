@@ -1,8 +1,8 @@
 ## Olá, meu nome é Kaio👋
-Sou um desenvolvedor novato que atualmente está cursando Análise e Desenvolvimento de Sistema. O motivo de ter escolhido essa carrera é porque me divirto bastante quanto mais descubro e aprendo sobre esse vasto mundo da programação.
+Sou um desenvolvedor novato que atualmente está cursando Análise e Desenvolvimento de Sistema. O motivo de ter escolhido essa carreira é porque me divirto bastante quanto mais descubro e aprendo sobre esse vasto mundo da programação.
 
 ## Meu GitHub🖥️
-Aqui você pode encontrar, por enquanto apenas alguns repositórios de estudos meus, outros de trabalhos da faculdade e alguns que eu fiz por diversão mesmo haha, fiquem a vontade para ver e usar o meus repositórios da forma que quiserem.
+Aqui você pode encontrar, por enquanto apenas alguns repositórios de estudos meus, outros de trabalhos da faculdade e alguns que eu fiz por diversão mesmo Haha. Fiquem a vontade para ver e usar o meus repositórios da forma que quiserem.
 
 ## Tecnologias que eu uso💡
 <div display = "inline">
